@@ -85,7 +85,7 @@ Antes de otro cambio verifico en logs que el cambio es la causa, pruebo el rever
 Después hago la corrección con revisión de un compañero y dejo documentado qué falló.
 
 ## Uso de inteligencia artificial
-Usé Claude (Anthropic) como apoyo para generar la estructura inicial del proyecto y el borrador del README. Revisé el código, lo ejecuté y puedo explicarlo. ____ (ajustar a lo que realmente hice)
+Usé Claude (Anthropic) como apoyo para generar la estructura inicial del proyecto y el borrador del README. Revisé el código, lo ejecuté y puedo explicarlo.
 
 ## Pendientes / mejoras
 - Pruebas automatizadas (no requeridas en esta prueba).
